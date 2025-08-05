@@ -5,7 +5,7 @@ Project Overview
 This project aims to predict whether a passenger survived the Titanic shipwreck based on features such as age, sex, passenger class, and fare. It demonstrates the full machine learning workflow: data exploration, preprocessing, model training, evaluation, and saving the model.
 
 Dataset
-The dataset used is the Titanic passenger data from the Kaggle Titanic Competition. It includes passenger details like age, sex, ticket class, and survival status.
+The dataset used is the Titanic passenger data from the Kaggle Titanic Competition <https://www.kaggle.com/c/titanic/data>. It includes passenger details like age, sex, ticket class, and survival status.
 
 Project Structure
 notebooks/ — Jupyter notebooks (Google Colab) containing the analysis and model building
@@ -45,4 +45,4 @@ Trying advanced models like XGBoost or neural networks
 Building a simple web app to interact with the model
 
 Author
-Your Name — LinkedIn | Portfolio
+Reesha Martis — https://www.linkedin.com/in/reesha-elvera-martis
